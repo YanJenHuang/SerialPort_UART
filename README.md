@@ -13,7 +13,7 @@ I simply test it on my "BeagleBone Black" as Transmitter and my Mac as Receiver.
 >>><code>$ ls /dev/cu.*
 /dev/cu.Bluetooth-Modem		/dev/cu.Bluetooth-Incoming-Port
 <strong>/dev/cu.usbserial</strong></code>
->>>>something like <code><strong>/dev/cu.usbserial</strong></code> will show up.
+something like <code><strong>/dev/cu.usbserial</strong></code> will show up.
 This indicates the USB-Serial driver is working! Congratulation!
 
 #### BeagleBone Black:
